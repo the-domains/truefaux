@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[truefaux]]></title>
+        <description><![CDATA[truefaux]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Dec 2015 18:15:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://cdn.flipboard.com/nationalgeographic.com/2e79e091b8463415d107a9218b2f55f3ce63b5c7/large.jpg">]]></description>
+            <link>undefined84c9772e-4fff-466a-b712-2aa92f12a83a/index.html</link>
+            <guid isPermaLink="false">84c9772e-4fff-466a-b712-2aa92f12a83a</guid>
+            <pubDate>Thu, 17 Dec 2015 18:15:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
