@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[truefaux]]></title>
         <description><![CDATA[truefaux]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/truefaux/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 18:15:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 18:15:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/truefaux/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://i.kinja-img.com/gawker-media/image/upload/s--haTgWAvO--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/18dxkjxt827rwjpg.jpg">]]></description>
+            <link>https://flipboard.com/@benjiart/truefaux-6pkjkk1dy</link>
+            <guid isPermaLink="false">a1634d0b-4901-47bd-ac98-243a7eb519a1</guid>
+            <pubDate>Thu, 17 Dec 2015 18:15:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://cdn.flipboard.com/nationalgeographic.com/2e79e091b8463415d107a9218b2f55f3ce63b5c7/large.jpg">]]></description>
-            <link>undefined84c9772e-4fff-466a-b712-2aa92f12a83a/index.html</link>
+            <link>https://thegrid.ai/truefaux/84c9772e-4fff-466a-b712-2aa92f12a83a/index.html</link>
             <guid isPermaLink="false">84c9772e-4fff-466a-b712-2aa92f12a83a</guid>
             <pubDate>Thu, 17 Dec 2015 18:15:00 GMT</pubDate>
         </item>
