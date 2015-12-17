@@ -1,7 +1,7 @@
 name: truefaux
 favicon: null
-layout_spectrum: 0.06734292721375823
-typography_spectrum: 0.5041561720427126
+layout_spectrum: 1
+typography_spectrum: 0.73115
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.3588628973811865
+  brandStrength: 1
   lightness: 0.5199400668498129
-  saturation: 0.7440165444277227
-  rhythmicContrast: 0.31719953496940434
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
