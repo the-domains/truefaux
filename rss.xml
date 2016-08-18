@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[truefaux]]></title>
-        <description><![CDATA[truefaux]]></description>
+        <title><![CDATA[TRUEFAUX]]></title>
+        <description><![CDATA[TRUEFAUX]]></description>
         <link>https://thegrid.ai/truefaux/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 19:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 20:56:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/truefaux/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://media.giphy.com/media/26tng395Ox59ycKwE/giphy.gif">]]></description>
+            <link>https://media.giphy.com/media/26tng395Ox59ycKwE/giphy.gif</link>
+            <guid isPermaLink="false">d16b4e04-0428-4a15-a06d-7fc4637150a0</guid>
+            <pubDate>Fri, 29 Jan 2016 19:43:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://i.kinja-img.com/gawker-media/image/upload/s--haTgWAvO--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/18dxkjxt827rwjpg.jpg">]]></description>
             <link>https://flipboard.com/@benjiart/truefaux-6pkjkk1dy</link>
             <guid isPermaLink="false">a1634d0b-4901-47bd-ac98-243a7eb519a1</guid>
             <pubDate>Thu, 17 Dec 2015 18:15:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.odditycentral.com/wp-content/uploads/2015/12/600x450xgiant-boar-600x450.jpg.pagespeed.ic.o4EPjJdaNh.webp">]]></description>
-            <link>https://thegrid.ai/truefaux/a30465f4-38fe-41a4-a782-2c853591003c/index.html</link>
-            <guid isPermaLink="false">a30465f4-38fe-41a4-a782-2c853591003c</guid>
-            <pubDate>Fri, 29 Jan 2016 19:42:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tiny Mites Living on Your Face Hold the Key to Your Ancestry]]></title>
